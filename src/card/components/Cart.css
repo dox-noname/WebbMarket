@@ -1,0 +1,171 @@
+/* Estilos para el botón del carrito */
+.cart-button {
+  
+  bottom: 600px;
+  right: 30px;
+  background-color: #053b6d;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+ 
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.226);
+}
+
+/* Estilos para el contenedor del carrito */
+.cart {
+  position: fixed;
+  bottom: 20px;
+  right: 0px;
+  background-color: #fff;
+  color: #333;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  height: 500px;
+  overflow-y: scroll;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.226);
+  transform: translateX(300px);
+  transition: transform 0.5s ease-out;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.226);
+}
+.card-container--itms {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.234);
+  padding-bottom: 15px;
+}
+
+.product-item {
+  display: flex;
+  align-items: center;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.title-price {
+  font-size: 1.2rem;
+}
+.price-cart {
+  color: green;
+  font-size: 1.5rem;
+}
+/* Estilos para mostrar el carrito */
+input[type="checkbox"]:checked + .cart {
+  transform: translateX(0);
+}
+
+/* Estilos para la lista de elementos del carrito */
+.cart ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos para cada elemento del carrito */
+.cart li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.cart li:last-child {
+  border-bottom: none;
+}
+
+.cart li img {
+  width: 100px;
+  height: 70px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+.cart li div {
+  flex-grow: 1;
+}
+.cart li footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.cart li button {
+  background-color: #09f;
+  color: #fff;
+  border: none;
+  width: 40px;
+  height: 30px;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+li .eliminar {
+  padding: 50px;
+  width: 100px;
+}
+.cart li button:hover {
+  background-color: #053b6d;
+}
+
+.cart li .remove-button {
+  background-color: #dc3545;
+}
+
+.cart li .remove-button:hover {
+  background-color: #c82333;
+}
+
+.cart button {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.btn-catidad {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.cart button:hover {
+  background-color: #c82333;
+}
+
+/* Estilos adicionales */
+
+.cart::-webkit-scrollbar {
+  width: 10px;
+}
+
+.cart::-webkit-scrollbar-thumb {
+  background-color: #053b6d;
+  border-radius: 5px;
+}
+
+.cart::-webkit-scrollbar-track {
+  background-color: #ddd;
+  border-radius: 5px;
+}
+
+.cart li small {
+  font-size: 14px;
+}
+
+.cart li footer > *:not(:last-child) {
+  margin-right: 10px;
+}

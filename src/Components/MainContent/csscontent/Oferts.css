@@ -1,0 +1,53 @@
+/* @font-face {
+  font-family: "mulish";
+  src: url("../public/Fonts/static/Mulish-Light.ttf");
+}
+@font-face {
+  font-family: "OpenSans";
+  src: url("../public/Fonts/static/OpenSans/OpenSans-Medium.ttf");
+}
+.container__cardsOferts {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.cardOferts {
+  font-family: "mulish";
+  max-width: 400px;
+  min-width: 80px;
+  width: 170px;
+  height: 279px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 10px rgb(128, 127, 127);
+} 
+.img-ofert {
+  width: 100%;
+  object-fit: cover;
+  height: 168px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+.prices {
+  display: flex;
+  justify-content: space-between;
+
+  font-size: 1.5rem;
+}
+.price {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #f31d1d;
+}
+.previusPrice {
+  color: #686868;
+  text-decoration: line-through;
+  font-size: 1.2rem;
+}
+.description__product {
+  font-size: 1.2rem;
+  width: 80%;
+}
+.txt {
+  padding: 5px;
+} */

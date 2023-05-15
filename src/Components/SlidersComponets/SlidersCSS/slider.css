@@ -1,0 +1,9 @@
+.carrusel {
+  background-color: rebeccapurplee;
+  margin-top: 157px;
+  position: static;
+}
+.carrusel img {
+  object-fit: cover;
+  height: 400px;
+}

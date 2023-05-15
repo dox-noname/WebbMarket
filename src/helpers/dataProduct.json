@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 1",
+    "price": "us $20.50",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 1",
+    "previousPrice": "Desde $40"
+  },
+  {
+    "id": 2,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 2",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 2"
+  },
+  {
+    "id": 3,
+    "imagen": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAC0AQwMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAFBgIEAAMHAf/EADAQAAIBAwEGBAYCAwEAAAAAAAECAwAEEQUGEiExQVETImFxQoGRocHRFTIWJVQU/8QAGQEBAAMBAQAAAAAAAAAAAAAAAwIEBQEG/8QAJhEAAgEDAwQBBQAAAAAAAAAAAQIAAxEhEhMxBEHw8WIyQlFxkf/aAAwDAQACEQMRAD8A55b2x3Rkc6tLaHoKY9O2fluIyyFRgf1bnVmLRpkfDQk45gca0QFHeead6pyFOYrNaYHKtTW/HlXQbvZ9Bpc12qGLwYyxEnoCaXbSwa7Tej8OQFioeM+U/OuBkY2Ek6VqSa3GIBWzLe1SNoMY5L9zTT/ByYAUM7dVCGrMey2oOPJan6iplVHMAVqj/SCf0Ilm2duESfQVFtOcLvScK6TabGose/f3I3ukcb4+pqL7OaTB55rkMO2cn7ULPTHJl1KHUtawtOXPZ4Yisp8lttIEjBLWV1zwbiM1lFuUpY2eo89Q5a6npWAZrh5BjiFVgM+wFFrXWdGjXEZ3Du9EYfiuZabJbquS0nPoSKYbSROSCX6t+6FqNvul+j1esZQRr1rXtOm0e+jhlUytA6rvIeeDzqppGvaZbW9w2pXNq0rTkhoo2VSN1eQ4kcvtQLUbuGSwuLcSOzPGU3FOeY69qjYPMkO7YRJbwFyQCoJHt0oThgAZeFjTJKi3qN6ba7OghRcx55YWJv1W5NtNn3Uf7BI34ZRomGD25caTLq6itonDtbvPICu/OwOAew5Cr2n3sQtY4LKexlCIqFUkGeWOOKkVPcwdxOyxqk17SZVyb9Fz0KH8iqDa9s9C2Hv0PsrD8UKP/oYnetIB3bxyoFV3kmzgKi8OBF0wH3oWQnvFSqPxDB2l2Z/64vmTWUCIus8L1R6eMf1WUOz8ou/8fP7EP+TFtGqwxKzMevSty3t7Pl5Z/Cj5BVO7k/KgUbbh8vA96twZlkxnGBmtJjfmZVNQmBCovnija3jUSB48O4UAEevfnUWvJiqpJMyRj4FJAPeh8b7q8ssfiNbdPUXMpWbzDB9+FFpA4lkOxwZY37RsKqLw7irEEMMh3XVfQ9jURaRJIyBTwOM59M1UaZkby8B2qHOBHGMkS3JLPaTFrWedT1y+8PoalDrd9EzNIVnBP9XQDHtihjzODkcK88UyxMSACOB9f1UrYhGxMO/5Nb/FZyBuu6wxXlKpkJJNZXdAhap//9k=",
+    "name": "producto 2",
+    "price": "usd $40.10",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 3"
+  },
+  {
+    "id": 4,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },
+  {
+    "id": 5,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },
+  {
+    "id": 6,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },
+  {
+    "id": 7,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },
+  {
+    "id": 5,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },
+  {
+    "id": 6,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },
+  {
+    "id": 7,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },  {
+    "id": 2,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 2",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 2"
+  },
+  {
+    "id": 3,
+    "imagen": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAC0AQwMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAFBgIEAAMHAf/EADAQAAIBAwEGBAYCAwEAAAAAAAECAwAEEQUGEiExQVETImFxQoGRocHRFTIWJVQU/8QAGQEBAAMBAQAAAAAAAAAAAAAAAwIEBQEG/8QAJhEAAgEDAwQBBQAAAAAAAAAAAQIAAxEhEhMxBEHw8WIyQlFxkf/aAAwDAQACEQMRAD8A55b2x3Rkc6tLaHoKY9O2fluIyyFRgf1bnVmLRpkfDQk45gca0QFHeead6pyFOYrNaYHKtTW/HlXQbvZ9Bpc12qGLwYyxEnoCaXbSwa7Tej8OQFioeM+U/OuBkY2Ek6VqSa3GIBWzLe1SNoMY5L9zTT/ByYAUM7dVCGrMey2oOPJan6iplVHMAVqj/SCf0Ilm2duESfQVFtOcLvScK6TabGose/f3I3ukcb4+pqL7OaTB55rkMO2cn7ULPTHJl1KHUtawtOXPZ4Yisp8lttIEjBLWV1zwbiM1lFuUpY2eo89Q5a6npWAZrh5BjiFVgM+wFFrXWdGjXEZ3Du9EYfiuZabJbquS0nPoSKYbSROSCX6t+6FqNvul+j1esZQRr1rXtOm0e+jhlUytA6rvIeeDzqppGvaZbW9w2pXNq0rTkhoo2VSN1eQ4kcvtQLUbuGSwuLcSOzPGU3FOeY69qjYPMkO7YRJbwFyQCoJHt0oThgAZeFjTJKi3qN6ba7OghRcx55YWJv1W5NtNn3Uf7BI34ZRomGD25caTLq6itonDtbvPICu/OwOAew5Cr2n3sQtY4LKexlCIqFUkGeWOOKkVPcwdxOyxqk17SZVyb9Fz0KH8iqDa9s9C2Hv0PsrD8UKP/oYnetIB3bxyoFV3kmzgKi8OBF0wH3oWQnvFSqPxDB2l2Z/64vmTWUCIus8L1R6eMf1WUOz8ou/8fP7EP+TFtGqwxKzMevSty3t7Pl5Z/Cj5BVO7k/KgUbbh8vA96twZlkxnGBmtJjfmZVNQmBCovnija3jUSB48O4UAEevfnUWvJiqpJMyRj4FJAPeh8b7q8ssfiNbdPUXMpWbzDB9+FFpA4lkOxwZY37RsKqLw7irEEMMh3XVfQ9jURaRJIyBTwOM59M1UaZkby8B2qHOBHGMkS3JLPaTFrWedT1y+8PoalDrd9EzNIVnBP9XQDHtihjzODkcK88UyxMSACOB9f1UrYhGxMO/5Nb/FZyBuu6wxXlKpkJJNZXdAhap//9k=",
+    "name": "producto 2",
+    "price": "usd $40.10",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 3"
+  },
+  {
+    "id": 4,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },
+  {
+    "id": 5,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },
+  {
+    "id": 6,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },
+  {
+    "id": 7,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },
+  {
+    "id": 5,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },
+  {
+    "id": 6,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  },
+  {
+    "id": 7,
+    "imagen": "../../../src/assets/images/images-mobile/mac.jpg",
+    "name": "producto 4",
+    "price": "us $20.50",
+    "previousPrice": "Desde $40",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 4"
+  }
+]

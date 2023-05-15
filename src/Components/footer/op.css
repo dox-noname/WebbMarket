@@ -1,0 +1,49 @@
+.opinions-section {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .opinions-slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .opinion-container {
+    display: flex;
+  }
+  
+  .opinion-card {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    margin: 0 10px;
+  }
+  
+  .opinion-card h3 {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .opinion-card p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .slider-button {
+    border: none;
+    background-color: transparent;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .prev-button {
+    margin-right: 10px;
+  }
+  
+  .next-button {
+    margin-left: 10px;
+  }
+  

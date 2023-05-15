@@ -1,0 +1,248 @@
+@media (max-width:720px){
+/* Mobile navigation menu */
+.mobile-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 100;
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Remove margins for logo container */
+  .container--logo {
+    margin: 0;
+  }
+  
+  /* Mobile menu */
+  .mobile-menu {
+    list-style: none;
+    padding: 1rem;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+    z-index: 99;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  /* Show the menu when open */
+  .mobile-menu.open {
+    transform: translateX(0%);
+  }
+  
+  /* Links inside mobile menu */
+  .link {
+    margin: 1rem 0;
+    width: 100%;
+  }
+  
+  .link button {
+    width: 100%;
+    font-size: 1.2rem;
+    color: #4b4b4b;
+    background-color: #f0f0f0;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .link button:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .links {
+    font-size: 1.2rem;
+    color: #4b4b4b;
+    text-decoration: none;
+    padding: 0.5rem;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .links:hover {
+    background-color: #e0e0e0;
+    border-radius: 0.5rem;
+  }
+  
+  /* Mobile menu overlay */
+  .mobile-menu-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 98;
+  }
+  
+  /* X icon for closing mobile menu */
+  .close-mobile-menu {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 2rem;
+    cursor: pointer;
+  }
+  
+  /* Logo image for mobile navigation */
+  .mobile-logo {
+    max-width: 100%;
+    height: auto;
+  }
+  .mobile-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 100;
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Remove margins for logo container */
+  .container--logo {
+    margin: 0;
+  }
+  
+  /* Mobile menu */
+  .mobile-menu {
+    list-style: none;
+    padding: 1rem;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+    z-index: 99;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  /* Show the menu when open */
+  .mobile-menu.open {
+    transform: translateX(0%);
+  }
+  
+  /* Links inside mobile menu */
+  .link {
+    margin: 1rem 0;
+    width: 100%;
+  }
+  
+  .link button {
+    width: 100%;
+    font-size: 1.2rem;
+    color: #4b4b4b;
+    background-color: #f0f0f0;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .link button:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .links {
+    font-size: 1.2rem;
+    color: #4b4b4b;
+    text-decoration: none;
+    padding: 0.5rem;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .links:hover {
+    background-color: #e0e0e0;
+    border-radius: 0.5rem;
+  }
+  
+  /* Mobile menu overlay */
+  .mobile-menu-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 98;
+  }
+  
+  /* X icon for closing mobile menu */
+  .close-mobile-menu {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 2rem;
+    cursor: pointer;
+  }
+  
+  /* Logo image for mobile navigation */
+  .mobile-logo {
+    max-width: 100%;
+    height: auto;
+  }
+  .close-mobile-menu {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 2rem;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+    color: #4b4b4b;
+  }
+  .close-mobile-menu:hover {
+    color: #e0e0e0;
+  }
+  /* X icon for closing mobile menu */
+.close-mobile-menu {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 2rem;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+  color: #4b4b4b;
+  display: none; /* ocultar el botón por defecto */
+}
+
+.close-mobile-menu:hover {
+  color: #e0e0e0;
+}
+
+/* Mostrar el botón de cierre cuando el menú está abierto */
+.mobile-menu.open .close-mobile-menu {
+  display: block;
+}
+
+}

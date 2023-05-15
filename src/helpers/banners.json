@@ -1,0 +1,23 @@
+{
+    "banners": [
+      {
+        "id": 1,
+        "banner": "../../../src/assets/images/Desktop/slider-hero-Desktop.jpg",
+        "banner1": "../../../src/assets/images/Desktop/slider-hero-Desktop.jpg",
+        "banner2": "../../../src/assets/images/Desktop/slider-hero-Desktop.jpg"
+      },
+      {
+        "id": 2,
+        "banner": "../../../src/assets/images/Desktop/slider-hero-Desktop-2.jpg",
+        "banner1": "../../../src/assets/images/Desktop/slider-hero-Desktop-2.jpg",
+        "banner2": "../../../src/assets/images/Desktop/slider-hero-Desktop-2.jpg"
+      },
+      {
+        "id": 3,
+        "banner": "../../../src/assets/images/Desktop/slider-hero-Desktop-3.jpg",
+        "banner1": "../../../src/assets/images/Desktop/slider-hero-Desktop-3.jpg",
+        "banner2": "../../../src/assets/images/Desktop/slider-hero-Desktop-3.jpg"
+      }
+    ]
+  }
+  

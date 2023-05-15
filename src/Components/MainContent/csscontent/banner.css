@@ -1,0 +1,71 @@
+.container-banner {
+  transition: ease 200ms;
+  display: flex;
+  align-items: center;
+  width: 84%;
+  margin: 0 auto;
+  height: 320px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 100px;
+  background: url(".../../../../../src/assets//images/Desktop/slider-hero-Desktop.jpg")
+    center / cover no-repeat;
+    margin-bottom: 100px;
+}
+.container-banner:hover{
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.425);
+
+}
+.title__banner {
+  font-size: 5rem;
+  border: none;
+  font-weight: bold;
+}
+.price__banner {
+  font-size: 2.5rem;
+  margin-left: 10px;
+}
+.cta__product {
+  margin-left: 10px;
+  text-align: start;
+  border: 3px solid black;
+  padding-right: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  font-size: 2rem;
+  transition: all 0.3s ease;
+  position: relative;
+  color: black  ;
+}
+.cta__product::after {
+  content: "";
+  background: url("../../../../src/assets/icons/arrow.svg") center / cover
+    no-repeat;
+  width: 35px;
+  height: 20px;
+  display: inline-block;
+  position: absolute; /* se agrega esta propiedad para que el icono tenga posición absoluta respecto al contenedor padre */
+  right: 40px; /* se ajusta la posición del icono según sea necesario */
+  top: 50%; /* se ajusta la posición del icono según sea necesario */
+  transform: translateY(
+    -50%
+  ); /* se ajusta la posición del icono según sea necesario */
+}
+
+.container_ofert_banner {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+/* .container--cta__product{
+  display: flex;
+  
+} */
+/* .arrow{
+  background: url('.././../../../src/assets//icons//arrow.svg') center / cover no-repeat;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  
+} */

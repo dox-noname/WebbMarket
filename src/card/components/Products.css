@@ -1,0 +1,92 @@
+.products {
+  width: 100%;
+  display: flex;
+
+  margin-top: 120px;
+}
+
+.products ul {
+  width: 100%;
+  padding: 10px;
+  display: grid;
+  place-content: center;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 200px));
+  row-gap: 80px;
+  column-gap: 10px;
+}
+
+.products li {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  color: #363333;
+  height: auto;
+  transition: all ease 0.4s;
+}
+.products li:hover {
+  /* transform: scale(1.04); */
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.226);
+}
+
+.products li:hover .price {
+  /* transform: scale(1.04); */
+
+  text-decoration: underline;
+}
+
+.title-price {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.info-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px;
+}
+.descripcion {
+  font-size: 1.4rem;
+}
+.products h3 {
+  margin: 0;
+}
+.price {
+  font-size:2rem;
+}
+.product-title {
+  font-size: 1.7rem;
+}
+.price:hover {
+}
+.products span {
+  font-size: 1rem;
+  opacity: 0.9;
+}
+.btn-cart {
+  width: 100%;
+  display: block;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.4rem;
+  border-radius: 2px;
+}
+button.btn-cart:hover {
+  transform: translateY(-2px);
+}
+.btn-cart:hover {
+  background-color: yellow;
+  transform: rotateX(10px);
+}
+
+.products img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  display: block;
+  object-fit: cover;
+  background: #fff;
+}

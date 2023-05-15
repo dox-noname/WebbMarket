@@ -1,0 +1,17 @@
+.searchbar-container {
+  width: 50%;
+}
+
+.Select__control {
+  height: 40px;
+  border-radius: 20px;
+}
+
+.Select__menu {
+  border-radius: 20px;
+  margin-top: 8px;
+}
+
+.Select__option {
+  padding: 10px 20px;
+}

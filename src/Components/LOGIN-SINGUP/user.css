@@ -1,0 +1,50 @@
+/* .user-profile {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+  }
+  
+  .user-profile h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .user-profile form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .user-profile label {
+    margin-bottom: 10px;
+  }
+  
+  .user-profile input,
+  .user-profile textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .user-profile input[type="file"] {
+    border: none;
+    padding: 0;
+  }
+  
+  .user-profile button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .user-profile img {
+    max-width: 100%;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+   */

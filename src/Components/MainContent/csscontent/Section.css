@@ -1,0 +1,27 @@
+.section-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  width: 95%;
+  margin: 0 auto;
+  padding: 15px;
+  color: white;
+}
+.section-title {
+  font-size: 3rem;
+}
+.section-descripcion {
+  font-size: 1.6rem;
+}
+.cta-banner {
+  color: white;
+  font-size: 2rem;
+  border: 2px solid white;
+  padding: 10px;
+  transition: 0.3s;
+}
+.cta-banner:hover {
+  background: white;
+  color: black;
+}
